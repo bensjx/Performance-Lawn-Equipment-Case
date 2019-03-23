@@ -9,3 +9,9 @@ The Performance Lawn Equipment excel file can be downloaded from the companion w
 3) Detailed evaluation of customer satisfaction
 4) Detailed evaluation of the quality of its products
 5) Evaluation of supplier performance
+
+# Concept:
+1) Manipulating data in R
+2) Plots (bar, line, histogram, ogive)
+3) Deriving statistics (mean, sd, var)
+4) T-test
